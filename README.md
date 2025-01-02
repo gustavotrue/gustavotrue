@@ -46,10 +46,10 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="www.linkedin.com/in/gustavo-torres-91862a1b0" width="52" height="40" alt="linkedin logo"  />
+  <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg](https://www.instagram.com/if.gustavo.true/profilecard/?igsh=MWRlMGNqbGhuMWNhbA==)" width="52" height="40" alt="instagram logo"  />
+  <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg](https://wa.me/5563981184007?text=Ol%C3%A1%20Gustavo,%20tudo%20bem?%20Vim%20pelo%20GitHub%F0%9F%91%8B%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)" width="52" height="40" alt="whatsapp logo"  />
+  <img src="mailto:gustavotorres.ti@hotmail.com" width="52" height="40" alt="gmail logo"  />
 </div>
 
 ###
